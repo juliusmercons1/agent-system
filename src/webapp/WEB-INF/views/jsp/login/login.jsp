@@ -7,10 +7,10 @@
 <title>Login</title>
 </head>
 <body>
-	<form action="login" method="post">
-	<br> Username <input type="text" name="userName"/>
-	<br> Password <input type="pasword" name="userPassword"/>
-	<br> Code <input type="text" name="userCode"/> <img src="/captcha-image.jpg"/>
+	<form action="/login" method="post">
+	<br> Username <input type="text" name="username"/>
+	<br> Password <input type="pasword" name="password"/>
+	<br> Code <input type="text" name="captcha"/> <img src="/captcha-image.jpg"/>
 	<br> <input type="submit" value="Login"/>
 	</form>
 </body>
