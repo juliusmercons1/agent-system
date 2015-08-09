@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Edit Account Details</title>
+<title>Update Account Details</title>
 </head>
 <body>
 	<form action="" method="post">
@@ -62,8 +62,8 @@
 			</tr>
 		</table>
 		
-		<br> <input type="submit" value="Edit Account"/>
-		<br> <input type="button" value="Change Password"/>
+		<br> <input type="submit" value="Update Account"/>
+		<br> <input type="button" value="Cancel"/>
 	</form>
 </body>
 </html>
