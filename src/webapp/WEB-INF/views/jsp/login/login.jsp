@@ -9,8 +9,7 @@
 <body>
 	<form action="/login" method="post">
 	<br> Username <input type="text" name="username"/>
-	<br> Password <input type="pasword" name="password"/>
-	<br> Code <input type="text" name="captcha"/> <img src="/captcha-image.jpg"/>
+	<br> Password <input type="password" name="password"/>
 	<br> <input type="submit" value="Login"/>
 	</form>
 </body>
